@@ -1,5 +1,8 @@
 ## BSD - Bitsend Core 0.14.0.6
 ## The first Masternodecoin with Core 0.14 and Segwit Support
+
+[![Build Status](https://travis-ci.org/dalijolijo/BitSend.svg?branch=bsd-travis)](https://travis-ci.org/dalijolijo/BitSend)
+
 ---WARNING----This Branch is under development----
 If you want to build or use source, please relay on release tags, or branches. This branch is highly experimental.
 
